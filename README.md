@@ -1,0 +1,2 @@
+# Traffic_Sign_Classifier-ML-Deep-Learning-
+I have moved on the major part of Data science and I have chosen the traffic sign classifier to understand the use of neural network . I have created a model that reliably classifies traffic signs, learning to identify the most appropriate features for this problem by itself. In this code, I show how we can create a deep learning architecture that can identify traffic signs with close to 98% accuracy on the test set.  
